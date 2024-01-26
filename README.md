@@ -1,6 +1,6 @@
 # SudokuSolver
 
-SudokuSolver is a Java project that applies basic algorithms to solve Sudoku puzzles. Upon completing this assignment, you will have implemented various techniques to tackle Sudoku puzzles efficiently.
+SudokuSolver is a Java project that applies basic algorithms to solve Sudoku puzzles. Upon completing this assignment, you will have implemented various techniques to tackle Sudoku puzzles efficiently. Read the specification document to understand the project.
 
 ## Features
 
